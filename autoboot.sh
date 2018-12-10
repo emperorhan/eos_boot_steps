@@ -23,7 +23,7 @@ sleep 2s
 ./05*
 ./06*
 
-/home/eos/ibctprivate/node/start.sh &> /dev/null
+/home/eos/ibctprivate/node/start.sh
 sleep 2s
 
 ./07*
