@@ -21,14 +21,13 @@ sleep 2s
 #there fore run in three times to make sure that the contract is set properly
 #changes: in order to prevent transactions taking more than 30ms and being refused, eosio::producer_plugin --max-transaction-time=300 parameter has been added to eosio node
 ./05*
+./06*
 
 /home/eos/ibctprivate/node/start.sh &> /dev/null
 sleep 2s
 
-./06*
-sleep 2s
-
 ./07*
+./08*
 sleep 2s
 
 ./cleos.sh get info
