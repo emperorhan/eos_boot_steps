@@ -1,6 +1,0 @@
-./cleos.sh transfer eosio ibctjooilkim "10000.0000 CR" "init"
-#./cleos.sh transfer eosio ibctjasonpak "10000.0000 CR" "init"
-./cleos.sh transfer eosio ibctryanking "10000.0000 CR" "init"
-./cleos.sh transfer eosio ibctregiscss "10000.0000 CR" "init"
-#./cleos.sh transfer eosio ibctemperorh "10000.0000 CR" "init"
-./cleos.sh transfer eosio ibctsejinctp "10000.0000 CR" "init"
